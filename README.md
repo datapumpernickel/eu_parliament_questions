@@ -1,1 +1,3 @@
 # eu_parliament_questions
+
+Intent to classify all questions of members of the EU parliament with zero-shot models. Currently abandoned because of priorities...  
